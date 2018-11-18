@@ -3,5 +3,5 @@ applications:
 - name: nodejsdemo-dev
   memory: 1024M
   host: nodejsdemo-dev
-  buildpack: https://github.com/cloudfoundry/nodejs-buildpack
+  random-route: true
   command: node app/server.js
