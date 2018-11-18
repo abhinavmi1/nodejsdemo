@@ -4,4 +4,5 @@ applications:
   memory: 1024M
   host: nodejsdemo-dev
   random-route: true
+  path: .
   command: node app/server.js
