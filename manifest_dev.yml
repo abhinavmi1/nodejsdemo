@@ -2,6 +2,6 @@
 applications:
 - name: nodejsdemo
   memory: 1024M
-  host: nodejs-dev
+  host: nodejsdemo-dev
   buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   command: node app/server.js
