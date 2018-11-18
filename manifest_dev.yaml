@@ -2,5 +2,5 @@
 applications:
 - name: nodejsdemo
   memory: 1024M
-  host: nodejs
+  host: nodejs-dev
   command: node app/server.js
