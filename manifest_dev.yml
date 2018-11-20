@@ -1,7 +1,7 @@
 ---
 applications:
 - name: nodejsdemo-dev
-  memory: 1024M
+  memory: 2048M
   host: nodejsdemo-dev
   random-route: true
   path: .
